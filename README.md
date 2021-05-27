@@ -1,1 +1,1 @@
-# libft
+# Simple Library in C
